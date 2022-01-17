@@ -23,3 +23,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+code/02-building-a-first-custom-component/.eslintcache
+code/*/node_modules/*
